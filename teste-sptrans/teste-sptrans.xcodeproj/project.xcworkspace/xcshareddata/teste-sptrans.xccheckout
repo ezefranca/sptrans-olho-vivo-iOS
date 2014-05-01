@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2E59ACF1-FF4C-4337-8D5C-6DC2AC7047DE</string>
+	<key>IDESourceControlProjectName</key>
+	<string>teste-sptrans</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>EB10E7DE-8A5F-4E91-BAB6-A6658E9BEDFC</key>
+		<string>https://github.com/ezefranca/ios-extra-study.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>teste-sptrans/teste-sptrans.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>EB10E7DE-8A5F-4E91-BAB6-A6658E9BEDFC</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ezefranca/ios-extra-study.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EB10E7DE-8A5F-4E91-BAB6-A6658E9BEDFC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EB10E7DE-8A5F-4E91-BAB6-A6658E9BEDFC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ios-extra-study</string>
+		</dict>
+	</array>
+</dict>
+</plist>
